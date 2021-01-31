@@ -106,8 +106,7 @@ public class Main {
 
     }
     static void displayHighScorePosition() {
-        //String player = "John";
-        //int place = 1;
+
         Scanner displayHighScorePosition = new Scanner(System.in);
         System.out.println("Please enter player's name: ");
         String playersName = displayHighScorePosition.nextLine();
